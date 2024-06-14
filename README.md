@@ -1,1 +1,1 @@
-Working on graphics on linux
+Hacking away at the linux kernel
