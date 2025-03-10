@@ -1,4 +1,4 @@
-Hacking away at the linux kernel
+Hacking away at the linux kernel and compilers.
 
 Find my DRM contributions [here](https://gitlab.freedesktop.org/drm/misc/kernel/-/commits/drm-misc-next?search=Tejas+Vipin)
 
